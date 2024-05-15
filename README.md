@@ -1,4 +1,4 @@
-# Joint_Median_Channel_Prior_and_Edge_Enhancement-_for_Single_Image_Dehazing
+# Joint Median Channel Prior and Edge Enhancement for Single Image Dehazing
 ```
 @conference{ MCEE,   
     author = {Haotian, Wu and Guangyu, Chen and Yuxuan, Xia},
